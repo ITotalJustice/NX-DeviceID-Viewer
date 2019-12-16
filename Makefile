@@ -39,7 +39,7 @@ include $(DEVKITPRO)/libnx/switch_rules
 #---------------------------------------------------------------------------------
 APP_TITLE   := NX DeviceID Viewer
 APP_AUTHOR  := TotalJustice
-APP_VERSION := 0.0.1
+APP_VERSION := 1.0.0
 
 TARGET		:=	$(notdir $(CURDIR))
 BUILD		:=	build
